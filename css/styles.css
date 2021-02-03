@@ -12,14 +12,14 @@ body::before {
 
 body::after {
   background-image: url('/assets/images/bg-pattern-top.svg');
-  top: -25%;
-  left: -25%;
+  top: -50%;
+  left: -18%;
 }
 
 body::before {
   background-image: url('/assets/images/bg-pattern-bottom.svg');
-  bottom: -25%;
-  right: -25%;
+  bottom: -50%;
+  right: -18%;
 }
 
 body{
