@@ -1,2 +1,2 @@
-# Profile-card-component
-Profile card using HTML &amp; CSS
+# Profile-card using HTML, CSS
+To see: https://profile-card-component-sooty-gamma.vercel.app/
